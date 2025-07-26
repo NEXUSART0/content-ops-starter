@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'A New Space for Well-being, Soul Connection'
+      text: 'A New Space for Well-being, Soul Connection, and Inspired'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
