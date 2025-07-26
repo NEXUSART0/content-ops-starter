@@ -7,7 +7,7 @@ sections:
       text: 'A New Space for Well-being, Soul Connection, and Inspired Living'
       color: text-dark
       type: TitleBlock
-    subtitle: Welcome to What If
+    subtitle: 'A sanctuary of possibility, transformation, and soulful living.'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
