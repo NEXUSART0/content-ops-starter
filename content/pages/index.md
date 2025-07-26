@@ -8,10 +8,53 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'A sanctuary of possibility, transformation, and soulful living.'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      What If is more than a business — it’s a movement, a concept, and a
+      lived example of how life can shift dramatically when body, mind, and
+      spirit align. At its heart, What If asks a simple question that
+      unlocks infinite potential:
+
+      “What if you lived with purpose, depth, and radiant health?”
+
+      In a world that often feels overwhelming and disconnected, we’re
+      creating a space where people can breathe, move, and rediscover their
+      inner strength. Through mindful movement, conscious connection,
+      dance, wellness products, and immersive retreats,
+      we invite you to walk a new path — one where your physical
+      vitality, emotional balance, and spiritual growth are not only
+      supported but celebrated.
+
+
+
+
+
+
+
+
+
+
+
+      \---
+
+
+
+
+
+
+      Our
+      Story: Real Lives, Real Alignment
+
+
+
+
+
+
+      The
+      "What If" journey began in the hearts of two people who
+      chose to live by example.
+
+
+
     actions:
       - label: Get started
         altText: ''
