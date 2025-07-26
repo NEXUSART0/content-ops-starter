@@ -24,37 +24,6 @@ sections:
       vitality, emotional balance, and spiritual growth are not only
       supported but celebrated.
 
-
-
-
-
-
-
-
-
-
-
-      \---
-
-
-
-
-
-
-      Our
-      Story: Real Lives, Real Alignment
-
-
-
-
-
-
-      The
-      "What If" journey began in the hearts of two people who
-      chose to live by example.
-
-
-
     actions:
       - label: Get started
         altText: ''
