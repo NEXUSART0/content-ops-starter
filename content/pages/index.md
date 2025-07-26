@@ -49,7 +49,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ''
+      label: “What If”
       color: text-dark
       type: Badge
     elementId: ''
